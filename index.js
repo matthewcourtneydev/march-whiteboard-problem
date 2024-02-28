@@ -11,4 +11,20 @@
 // Dates are zero based (see resources).
 // All test cases contain valid dates.
 
+// function timeForMilkAndCookies(date) {
+//   const month = date.getUTCMonth() + 1; // months from 1-12
+//   const day = date.getUTCDate();
 
+//   if (month === 12 && day === 24) {
+//     console.log(true)
+//   } else {
+//     console.log(false)
+//   }
+
+// }
+
+// timeForMilkAndCookies(new Date(2013, 11, 24));
+
+// timeForMilkAndCookies(new Date(2013, 0, 23));
+
+// timeForMilkAndCookies(new Date(3000, 11, 24));
